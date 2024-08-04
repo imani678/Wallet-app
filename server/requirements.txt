@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+flask-migrate
+sqlalchemy-serializer
+flask-restful
+install
+flask-bcrypt
+flask-jwt-extended
+python-dotenv
+flask-cors
